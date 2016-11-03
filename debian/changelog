@@ -1,0 +1,43 @@
+ros-indigo-map-laser (0.0.6-0trusty) trusty; urgency=high
+
+  * Changing maintainer to not pester David
+  * Contributors: Christian Dondrup
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 03 Nov 2016 00:00:00 -0000
+
+ros-indigo-map-laser (0.0.5-0trusty) trusty; urgency=high
+
+  * Indigo Update, 10 queue size, pep8
+  * PEP8 Fixes
+  * don't make invalid ranges valid
+  * don't try to calculate with NaN
+  * Contributors: Aaron Blasdel, v4hn
+
+ -- David V. Lu!! <davidvlu@gmail.com>  Mon, 31 Aug 2015 00:00:00 -0000
+
+ros-indigo-map-laser (0.0.3-0trusty) trusty; urgency=high
+
+  * Remove laser_filters depends
+  * Match install locations to source locations
+  * Contributors: David V. Lu!!
+
+ -- David V. Lu!! <davidvlu@gmail.com>  Sat, 16 Aug 2014 00:00:00 -0000
+
+ros-indigo-map-laser (0.0.2-0trusty) trusty; urgency=high
+
+  * Move src to scripts, more dependencies
+  * Contributors: David Lu!!
+
+ -- David V. Lu!! <davidvlu@gmail.com>  Tue, 22 Jul 2014 00:00:00 -0000
+
+ros-indigo-map-laser (0.0.1-0trusty) trusty; urgency=high
+
+  * Install correct files
+  * Initial catkinization
+  * Filter out of range laser readings
+  * Map Laser
+  * Contributors: David Lu!!
+
+ -- David V. Lu!! <davidvlu@gmail.com>  Tue, 08 Jul 2014 00:00:00 -0000
+
+
