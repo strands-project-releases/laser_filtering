@@ -1,0 +1,33 @@
+ros-indigo-laser-filtering (0.0.6-0trusty) trusty; urgency=high
+
+  * Changing maintainer to not pester david
+  * Contributors: Christian Dondrup
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 03 Nov 2016 00:00:00 -0000
+
+ros-indigo-laser-filtering (0.0.5-0trusty) trusty; urgency=high
+
+
+
+ -- David V. Lu!! <davidvlu@gmail.com>  Mon, 31 Aug 2015 00:00:00 -0000
+
+ros-indigo-laser-filtering (0.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- David V. Lu!! <davidvlu@gmail.com>  Sat, 16 Aug 2014 00:00:00 -0000
+
+ros-indigo-laser-filtering (0.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- David V. Lu!! <davidvlu@gmail.com>  Tue, 22 Jul 2014 00:00:00 -0000
+
+ros-indigo-laser-filtering (0.0.1-0trusty) trusty; urgency=high
+
+  * Initial catkinization
+  * Contributors: David Lu!!
+
+ -- David V. Lu!! <davidvlu@gmail.com>  Tue, 08 Jul 2014 00:00:00 -0000
+
+
